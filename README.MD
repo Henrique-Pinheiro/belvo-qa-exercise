@@ -2,9 +2,6 @@
 
 **This project delivery a lean testing automation structure and the resolution of the proposed belvo techinical challange using java and some Design Patterns and Good Practices**
 
-Execução Local:
-![Exemplo](local_execution.gif)
-
 ## Languages and Frameworks
 * [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
 * [TestNG](https://testng.org/doc/) as the UnitTest framework to support the test creation and the integration with cucumber
