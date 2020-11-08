@@ -47,4 +47,10 @@ There is just one  properties (configuration) file located on `src/main/java/res
 Run the command `mvn clean verify` in the root of the project 
 
 #### With Docker
-Bla bla bla
+To build the docker image, execute the following command inside the directory of the project:
+```
+$ docker build -t demo .
+```
+To run:
+```
+$ docker run --rm -it demo:latest
